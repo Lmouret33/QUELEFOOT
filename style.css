@@ -1,0 +1,131 @@
+
+
+
+#banner{
+	width: 100vw;
+	height:100vh;
+	background-image: url(https://i.pinimg.com/originals/ce/e8/ba/cee8ba2f8e54077e65ce44322239b9b9.jpg);
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+}
+
+h1 {
+	color: #B3A151;
+	text-align: center;
+	font-size: 70px;
+	font-family: Chivo;
+	padding-top: 40px;
+	margin: 0;
+	background-color: black;
+}
+
+#soustitres {
+	font-family: arial;
+	opacity: 2.5;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 40px;
+	margin-bottom: 50px;
+}
+
+#abonnez-vous{
+	color: white;
+	font-family: Overpass;
+	font-size: 25px;
+	margin: auto;
+	text-align: center;
+	background-color: #B3A151;
+	padding: 15px 45px;
+	border: 2px solid #B3A151;
+	border-radius: 9px;
+	position: relative;
+	text-decoration: none;
+	margin-top: 200px;
+}
+
+#abonnez-vous:hover {
+	background-color: #867216;
+	transition: all 0.5s ease-out;
+	padding: 18px 48px;
+}
+
+
+
+
+#photoqlf{
+	width: 200px;
+	margin-top: 10px;
+}
+
+#découverte{
+	font-family: Chivo;
+	color: black;
+	font-weight: bold;
+	margin-left: 20%;
+}
+
+#contenu {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#louisph{
+	width: 220px;
+	height: 380px;
+}
+
+.carte {
+	background-color: white;
+	width: 220px;
+	height: 380px;
+	box-shadow: 0 0 10px rgb(0, 0, 0.3);
+	border-radius: 4px;
+	padding: 24px;
+	margin: 8px;
+	text-align: center;
+
+}
+
+.carte img{
+	width: 100%;
+	text-align: center;
+}
+
+
+#pied-de-page {
+	height: 50px;
+	background-color: black;
+	color: white;
+	padding-top: 5%;
+	text-align: center;
+	margin-top: 40px;
+	font-family: Overpass;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
